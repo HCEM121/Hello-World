@@ -1,2 +1,5 @@
 # Hello-World
-Teach me GIT
+
+Hello Git
+
+Testing out functionality to learn GIT
